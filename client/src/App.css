@@ -1,0 +1,22 @@
+.app {
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+}
+
+.app.light{
+  /* background-image: url('/src/lightbackground.jpg'); */
+  background-color: #E3F2FD ;
+}
+
+.app.dark {
+  /* background-image: url('/src/darkbackground.jpg'); */
+  background-color: #222831;
+}
+
+.no-scroll {
+  overflow: hidden;
+}
+
